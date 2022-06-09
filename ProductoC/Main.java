@@ -3,7 +3,7 @@ package ProductoC;
 public class Main {
     public static void main(String[] args) {
         ProductoControlador productoControlador = new ProductoControlador(3);
-        //System.out.println(productoControlador);
+       
 
 
         productoControlador.crear(157753, "leche ",3.60);
